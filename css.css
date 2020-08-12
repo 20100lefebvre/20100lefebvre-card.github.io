@@ -92,15 +92,10 @@ h3{
 	color:green;
 }
 
-img{
-	border-radius:5% 12%;
-	box-shadow: 1px 1px 1px 1px rgba(0 , 0 , 0 , 0.1) ; 
-}
-
 .contact {
 	padding-top: 30px;
 	width: 300px;
-	font-family:'Lobster', cursive, verdana, sans-serif;
+	font-family: 'helvetica', 'Lobster', cursive, 'verdana', sans-serif;
  }
  
 footer{
@@ -125,7 +120,7 @@ a:link{
 footer a:hover{
 	font-style:italic;
 	color: #6092A6;
-        font-family: helvetica,'Oswald', 'Noto Sans JP', sans-serif, verdana;
+        font-family: 'helvetica','Oswald', 'Noto Sans JP', sans-serif, 'verdana';
 }
 
 a:visited{
