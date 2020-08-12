@@ -19,28 +19,28 @@
 	min-height: 100vh; /*viewport=zone d'affichage viewheight=100%*/
 	min-width: 100vw;
 	display: flex;
-    justify-content: center;
+        justify-content: center;
 	align-items: center;
-    width:auto;
+        width:auto;
 	height: auto;
 }
  
 #carte{
     height: 300px;
-	width: 300px;
-	border-radius:5% 12%;
+    width: 300px;
+    border-radius:5% 12%;
     font-family: 'Oswald','Noto Sans JP', sans-serif, verdana, arial;
     background-color: #FEFEFE;/*blanc argent*/
     display: flex;
     flex-wrap: wrap;
-	transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
     box-shadow: 2px 2px 4px 3px rgba(0 , 0 , 0 , 0.3) , 
 	            2px 2px 15px  1px rgba(200, 200 , 200 , 0.5) inset;
 }
 
 #carte:hover {
     box-shadow: 4px 10px 25px 1px rgba(0 , 0 , 0 , 0.3);
-	transform: rotate(-1deg);
+    transform: rotate(-1deg);
 }
  
 .push{
@@ -52,14 +52,14 @@
 h1{
 	text-transform: capitalize;
 	font-family:'Lobster', cursive, verdana, sans-serif;
-    font-size: 30px;
+        font-size: 30px;
 	color:#130E0A;/*noir de carbone*/
 	letter-spacing:1px;
 }
 
 h1:hover{
 	font-style:light;
-    opacity:0.8;
+        opacity:0.8;
 }
 
 h2{
@@ -75,14 +75,13 @@ h3{
 }
 
 #photo{
-	
-	width: 300px;
-	height: 10px;
+    width: 300px;
+    height: 10px;
     padding: 30px;
     padding-top: 40px;
-	display: flex;
+    display: flex;
     justify-content: center;
-	align-items: center;
+    align-items: center;
 }
 
 #urgent{
@@ -114,6 +113,7 @@ footer{
 footer > p{
      padding: 2%;
 }
+	
 a{
 	color: black;
 }
@@ -132,4 +132,3 @@ a:visited{
 	color: #6092A6;
 }
 
-}
