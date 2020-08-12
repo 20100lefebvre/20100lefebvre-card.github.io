@@ -35,7 +35,7 @@
     flex-wrap: wrap;
     transition: all .5s ease-in-out;
     box-shadow: 2px 2px 4px 3px rgba(0 , 0 , 0 , 0.3) , 
-	            2px 2px 15px  1px rgba(200, 200 , 200 , 0.5) inset;
+	        2px 2px 15px  1px rgba(200, 200 , 200 , 0.5) inset;
 }
 
 #carte:hover {
