@@ -125,7 +125,7 @@ a:link{
 footer a:hover{
 	font-style:italic;
 	color: #6092A6;
-    font-family: 'Oswald', 'Noto Sans JP', sans-serif, verdana;
+        font-family: helvetica,'Oswald', 'Noto Sans JP', sans-serif, verdana;
 }
 
 a:visited{
