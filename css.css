@@ -26,6 +26,7 @@
 }
  
 #carte{
+    text-align: center;
     height: 300px;
     width: 300px;
     border-radius:5% 12%;
